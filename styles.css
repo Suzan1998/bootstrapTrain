@@ -1,0 +1,24 @@
+
+.menu ul {
+  list-style-type: none;
+  margin: 0;
+  padding: 0;
+  border: 1px solid black;
+
+}
+
+.menu li {
+  
+  margin-right: 100px;
+}
+
+.menu li:hover {
+  background-color: #0099cc;
+}
+.gallery {
+  border: 0.5px solid black;  
+}
+.gallery:hover {
+  border: 1px solid #777;
+}
+
