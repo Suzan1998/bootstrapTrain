@@ -22,4 +22,6 @@
 .gallery:hover {
   border: 1px solid #777;
 }
-
+.container {
+  height: 100%;
+}
